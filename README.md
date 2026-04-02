@@ -33,7 +33,7 @@ The webcam captures live video input. Frame differencing compares the current fr
 - A stable lighting environment is recommended for clearer detection
 
 ## Screenshots / Media
-![Screenshot](images/screenshot.png)
+![Screenshot](images/Screenshot.png)
 
 ## Credits / Acknowledgements
 Created by Haiyi Xiao.
